@@ -18,7 +18,7 @@ After download or clone run `npm install` OR `yarn install` to install all the d
 
 ## Technology Stack:
 
-1. React Js
+1. ReactJS
 2. Rapid API
 3. GoogleMaps API
 
